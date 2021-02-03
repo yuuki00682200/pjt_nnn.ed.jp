@@ -1,11 +1,10 @@
 /*********************************************************************************
 
-	Template Name: Keystroke Creative Agency Bootstrap4 Html5 Template
-	Note: This is style css.
+	うおおおお髙津が頑張った
 
 **********************************************************************************/
 /**************************************************************
-	
+
 	STYLESHEET INDEXING
 	|
 	|
@@ -35,29 +34,29 @@
 	|
 	|
 	|___Elements Styles
-	|	|___ button 
-	|	|___ section-title 
-	|	|___ dividers 
-	|	|___ social-icon 
-	|	|___ contact 
-	|	|___ portfolio 
-	|	|___ counterup 
-	|	|___ testimonial 
-	|	|___ brand 
-	|	|___ blog 
-	|	|___ blog-list 
-	|	|___ call-to-action 
-	|	|___ case-study 
-	|	|___ axil-slick 
-	|	|___ pricingtable 
-	|	|___ video 
-	|	|___ cuntdown 
-	|	|___ accordion 
+	|	|___ button
+	|	|___ section-title
+	|	|___ dividers
+	|	|___ social-icon
+	|	|___ contact
+	|	|___ portfolio
+	|	|___ counterup
+	|	|___ testimonial
+	|	|___ brand
+	|	|___ blog
+	|	|___ blog-list
+	|	|___ call-to-action
+	|	|___ case-study
+	|	|___ axil-slick
+	|	|___ pricingtable
+	|	|___ video
+	|	|___ cuntdown
+	|	|___ accordion
 	|
 	|
 	|
 	|___Template Styles
-	|	|___ banner 
+	|	|___ banner
 	|	|___ breadcrumb
 	|	|___ featured
 	|	|___ aboutUs
@@ -72,7 +71,7 @@
 	|	|___ preview
 	|
 	|___Footer Styles
-	|	|___ footer 
+	|	|___ footer
 	|
 	|
 	|___ END STYLESHEET INDEXING
@@ -182,7 +181,7 @@ samp {
 }
 
 pre {
-  background: #f5f5f5;
+  background: #000000;
   color: #666;
   font-family: monospace;
   font-size: 14px;
@@ -974,7 +973,7 @@ p:last-child {
 }
 
 /*----------------------
-    Animation Css  
+    Animation Css
 -----------------------*/
 @-webkit-keyframes customOne {
   from {
@@ -1041,7 +1040,7 @@ p:last-child {
 }
 
 /*------------------------
-    Move Up Animation  
+    Move Up Animation
 ---------------------------*/
 .move-up {
   -webkit-transform: translateY(0px);
@@ -1058,7 +1057,7 @@ p:last-child {
 }
 
 /* ------------------------
-    Custom Animation 01 
+    Custom Animation 01
 ----------------------------*/
 @-webkit-keyframes headerSlideDown {
   0% {
@@ -1131,7 +1130,7 @@ p:last-child {
 }
 
 /*----------------------
-    Animated Text  
+    Animated Text
 -----------------------*/
 @-webkit-keyframes animateBorder {
   0% {
@@ -1253,7 +1252,7 @@ p:last-child {
 }
 
 /*--------------------------
-Scroll Line Animation  
+Scroll Line Animation
 ----------------------------*/
 @-webkit-keyframes line1 {
   0% {
@@ -1419,7 +1418,7 @@ Scroll Line Animation
 }
 
 /*--------------------------------
-Scroll Down Button Animation  
+Scroll Down Button Animation
 ----------------------------------*/
 @-webkit-keyframes scrollDown {
   0% {
@@ -1453,7 +1452,7 @@ Scroll Down Button Animation
 }
 
 /*======================
-    Custom Animation 
+    Custom Animation
 ========================*/
 .link-hover a {
   display: inline-block;
@@ -4705,9 +4704,9 @@ Copyright (c) 2015 Daniel Eden
  *  Utilities
 =================================*/
 /*====================================
-    Google Font  
+    Google Font
 ===================================*/
-/* 
+/*
 font-family: 'DM Sans', sans-serif;
 
 */
@@ -4730,7 +4729,7 @@ font-family: 'DM Sans', sans-serif;
 }
 
 /*===============================
-    Background Color 
+    Background Color
 =================================*/
 .bg-color-primary {
   background: #702FFF;
@@ -4805,7 +4804,7 @@ font-family: 'DM Sans', sans-serif;
 }
 
 /*===========================
-    Background Image 
+    Background Image
 =============================*/
 .bg_image--1 {
   background-image: url(../images/bg/bg-image-1.svg);
@@ -5136,7 +5135,7 @@ font-family: 'DM Sans', sans-serif;
 }
 
 /*=========================
-    Text specialized 
+    Text specialized
 ==========================*/
 .text-italic {
   font-style: italic;
@@ -5643,7 +5642,7 @@ textarea:-ms-input-placeholder {
 }
 
 /*=============================
-	Overlay styles 
+	Overlay styles
 ==============================*/
 [data-overlay],
 [data-black-overlay],
@@ -5742,7 +5741,7 @@ textarea:-ms-input-placeholder {
 }
 
 /*------------------------------
-    Scroll Up 
+    Scroll Up
 --------------------------------*/
 #scrollUp {
   width: 70px;
@@ -5854,7 +5853,7 @@ textarea:-ms-input-placeholder {
 }
 
 /*--------------------
-    Contact Form 
+    Contact Form
 ----------------------*/
 .form-message {
   margin-bottom: 0;
@@ -5872,7 +5871,7 @@ textarea:-ms-input-placeholder {
 }
 
 /*=========================
-    Section Separation 
+    Section Separation
 ==========================*/
 .letterspacing--2 {
   letter-spacing: 2px;
@@ -11237,7 +11236,7 @@ input[type="radio"] ~ label::after {
 	Header Styles
 ***************************************/
 /*=================
-Header Styles 
+Header Styles
 ===================*/
 .haeder-default {
   -webkit-transition: all 0.4s;
@@ -11315,7 +11314,7 @@ Header Styles
 }
 
 /*----------------------
-    Logo Animation  
+    Logo Animation
 -----------------------*/
 circle#icon-oval-sm,
 circle#icon-oval-lg,
@@ -11345,7 +11344,7 @@ a {
 }
 
 /*=====================
-Navigation Styles 
+Navigation Styles
 =======================*/
 ul.mainmenu {
   display: -webkit-box;
@@ -11464,7 +11463,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*----------------------
-    Sidebar Nav 
+    Sidebar Nav
 -----------------------*/
 .side-nav-opened {
   position: relative;
@@ -11538,7 +11537,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*--------------------------
-    Side Nav Styles 
+    Side Nav Styles
  ---------------------------*/
 .side-nav {
   width: 60vw;
@@ -11776,7 +11775,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*-----------------------
-    Menu Toggler 
+    Menu Toggler
 -------------------------*/
 .axil-menuToggle {
   position: relative;
@@ -11837,7 +11836,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*---------------------
-    Bg Theme Color  
+    Bg Theme Color
 -----------------------*/
 .bg-theme-color .axil-menuToggle {
   background: #000248;
@@ -11848,7 +11847,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*-------------------
-    Search Styles 
+    Search Styles
 ---------------------*/
 .axil-search-area {
   position: absolute;
@@ -11960,7 +11959,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*-----------------------
-    Scroll Navigation  
+    Scroll Navigation
 -------------------------*/
 .axil-scroll-navigation .nav {
   position: static;
@@ -12056,7 +12055,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*-----------------------------
-    Menu Bar Styles  
+    Menu Bar Styles
 -------------------------------*/
 .ax-menubar {
   display: -webkit-box;
@@ -12124,7 +12123,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*----------------------------
-    Popup MObile Menu  
+    Popup MObile Menu
 ------------------------------*/
 .popup-mobile-manu {
   position: fixed;
@@ -12171,7 +12170,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 /*----------------------------
-    Popup MObile Styles  
+    Popup MObile Styles
 ------------------------------*/
 .popup-mobile-manu .inner .mobileheader {
   top: 0;
@@ -12336,7 +12335,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 	Elements Styles
 ***************************************/
 /*======================
-    Axil Button Styles 
+    Axil Button Styles
 ========================*/
 .axil-button-group {
   margin: -10px;
@@ -12693,7 +12692,7 @@ button.axil-button.btn-solid.btn-primary-color:hover span.button-icon {
 }
 
 /* ========================
-    Slider Video Play 
+    Slider Video Play
 =========================*/
 .yu2fvl {
   z-index: 9999;
@@ -12906,14 +12905,14 @@ a.axil-link:hover::after {
 }
 
 /* ========================
-Dividers Area 
+Dividers Area
 ==========================*/
 .axil-basic-thine-line {
   border-top: 1px solid #C7C7D5;
 }
 
 /*===================
-    Social Icon 
+    Social Icon
 ====================*/
 .ft-social-share {
   margin: -5px -70px;
@@ -12997,7 +12996,7 @@ Dividers Area
 }
 
 /*------------------------
-    Social Share  
+    Social Share
 -------------------------*/
 ul.social-share {
   display: -webkit-box;
@@ -13139,7 +13138,7 @@ ul.social-share.style-rounded.bg-color--white li:hover a i {
 }
 
 /*--------------------------
-    List Of Followers  
+    List Of Followers
 ----------------------------*/
 ul.followers-list {
   margin: 0 -50px;
@@ -13251,7 +13250,7 @@ ul.followers-list li.linkedin a i {
 }
 
 /*====================
-Service Styles 
+Service Styles
 ======================*/
 .axil-service {
   margin-top: 60px;
@@ -13264,7 +13263,7 @@ Service Styles
 }
 
 /*---------------------------
-    Single Service  
+    Single Service
 ---------------------------*/
 .axil-service {
   position: relative;
@@ -13746,7 +13745,7 @@ Service Styles
 }
 
 /*------------------------------
-    Axil Service Style Two  
+    Axil Service Style Two
 -------------------------------*/
 .axil-service-two {
   margin-top: 30px;
@@ -13761,7 +13760,7 @@ Service Styles
 }
 
 /*---------------------
-Service Style Three  
+Service Style Three
 ------------------------*/
 .axil-service-style--3 .icon {
   position: relative;
@@ -13830,7 +13829,7 @@ Service Style Three
 }
 
 /*=======================
-Contact Form Style 
+Contact Form Style
 =========================*/
 .axil-contact-form.contact-form-style-1 {
   padding: 50px;
@@ -14162,7 +14161,7 @@ Contact Form Style
 }
 
 /*--------------------------
-    Axil Address Area  
+    Axil Address Area
 ----------------------------*/
 .axil-address {
   padding: 50px 50px;
@@ -14266,7 +14265,7 @@ Contact Form Style
 }
 
 /*-------------------------
-Axil Office Location  
+Axil Office Location
 ---------------------------*/
 .axil-office-location .thumbnail {
   margin-bottom: 30px;
@@ -14285,7 +14284,7 @@ Axil Office Location
 }
 
 /*------------------
-Form Message 
+Form Message
 ---------------------*/
 p.form-messege.error {
   margin-top: 20px;
@@ -14299,10 +14298,10 @@ p.form-messege.success {
 }
 
 /*=======================
-    Portfolio Styles 
+    Portfolio Styles
 =========================*/
 /*-------------------------
-Masonary Grid List 
+Masonary Grid List
 ----------------------------*/
 .mesonry-list {
   margin: 0 -22px;
@@ -14341,7 +14340,7 @@ Masonary Grid List
 }
 
 /*-----------------------------
-    Portfolio Item  
+    Portfolio Item
 ------------------------------*/
 .portfolio {
   padding: 0 22px;
@@ -14449,7 +14448,7 @@ Masonary Grid List
 }
 
 /*----------------------------------
-    Portfolio Button Styles 
+    Portfolio Button Styles
 -----------------------------------*/
 .messonry-button button {
   border: 0 none;
@@ -14537,7 +14536,7 @@ Masonary Grid List
 }
 
 /*----------------------------
-    Axil Counterup Styles 
+    Axil Counterup Styles
 -----------------------------*/
 .axil-counterup {
   height: 280px;
@@ -14741,7 +14740,7 @@ Masonary Grid List
 }
 
 /*--------------------------------
-    Axil Testimonial Styles 
+    Axil Testimonial Styles
 ----------------------------------*/
 .axil-testimonial {
   position: relative;
@@ -15034,7 +15033,7 @@ Masonary Grid List
 }
 
 /*------------------------
-    Brand Styles 
+    Brand Styles
 -------------------------*/
 .axil-brand-logo-wrapper {
   padding-left: 88px;
@@ -15167,7 +15166,7 @@ Masonary Grid List
 }
 
 /*-------------------------
-Client List  
+Client List
 --------------------------*/
 ul.client-list {
   position: relative;
@@ -15236,7 +15235,7 @@ ul.client-list li a img {
 }
 
 /*---------------------
-    Axil Blog Styles 
+    Axil Blog Styles
 ----------------------*/
 .axil-blog {
   position: relative;
@@ -15455,7 +15454,7 @@ ul.client-list li a img {
 }
 
 /*----------------------
-    Blog List Styles 
+    Blog List Styles
 ------------------------*/
 .axil-blog-list .blog-top .title {
   margin-bottom: 20px;
@@ -15673,7 +15672,7 @@ ul.client-list li a img {
 }
 
 /*----------------------------
-    Axil Call To Action 
+    Axil Call To Action
 ------------------------------*/
 .axil-call-to-action h2.title {
   margin-bottom: 40px;
@@ -15798,7 +15797,7 @@ ul.client-list li a img {
 }
 
 /*----------------------------------
-    Call To Action Style Two 
+    Call To Action Style Two
 -----------------------------------*/
 .axil-call-to-action.callaction-style-2 {
   position: relative;
@@ -15997,7 +15996,7 @@ ul.client-list li a img {
 }
 
 /*-----------------------
-Axil Case Study 
+Axil Case Study
 -------------------------*/
 .axil-case-study {
   margin-top: 60px;
@@ -16202,7 +16201,7 @@ Axil Case Study
 }
 
 /*---------------------
-    Axil Slick 
+    Axil Slick
 ----------------------*/
 .axil-featured-activation {
   position: relative;
@@ -16330,7 +16329,7 @@ Axil Case Study
 }
 
 /*------------------------
-    Axil Team Styles 
+    Axil Team Styles
 -------------------------*/
 .axil-team-area.shape-position {
   position: relative;
@@ -16587,7 +16586,7 @@ Axil Case Study
 }
 
 /*--------------------------
-    Pricing Table Styles 
+    Pricing Table Styles
 ----------------------------*/
 .axil-pricing-table-area.pricing-shape-position {
   position: relative;
@@ -16608,7 +16607,7 @@ Axil Case Study
 }
 
 /*--------------------------------
-    Start Pricing Table Style  
+    Start Pricing Table Style
 ----------------------------------*/
 .axil-pricing-table {
   position: relative;
@@ -16977,7 +16976,7 @@ Axil Case Study
 }
 
 /*-----------------------
- -Video Styles  
+ -Video Styles
 ------------------------*/
 .video-button.position-to-top {
   position: absolute;
@@ -17039,7 +17038,7 @@ a.video-btn span.triangle {
 }
 
 /*----------------------------
-    Axil Countdown Styles 
+    Axil Countdown Styles
 -----------------------------*/
 .countdown-style-1 .countbox.timer-grid > div {
   display: -webkit-box;
@@ -17124,7 +17123,7 @@ a.video-btn span.triangle {
 }
 
 /*-----------------------
-    Accordion Styles 
+    Accordion Styles
 -------------------------*/
 .axil-accordion .card {
   border: 0 none;
@@ -17189,7 +17188,7 @@ a.video-btn span.triangle {
 }
 
 /*-----------------------------
-Accourdion Style Two  
+Accourdion Style Two
 -------------------------------*/
 .axil-accordion--2 .card {
   border-radius: 0;
@@ -17325,7 +17324,7 @@ Accourdion Style Two
 }
 
 /*-----------------------
-Slider Style One 
+Slider Style One
 -------------------------*/
 .axil-slide.slide-style-default .content {
   position: relative;
@@ -17998,7 +17997,7 @@ Slider Style One
 }
 
 /*-------------------------
-Slider Style Three  
+Slider Style Three
 --------------------------*/
 .scroll-down_btn {
   position: absolute;
@@ -18050,11 +18049,11 @@ Slider Style Three
 }
 
 /*=====================
-Breadcrumb Styles 
+Breadcrumb Styles
 ======================*/
 .axil-breadcrumb-area {
   /*--------------------
-    Breadcrumb Style Two 
+    Breadcrumb Style Two
     ------------------------*/
 }
 
@@ -18529,7 +18528,7 @@ Breadcrumb Styles
 }
 
 /*---------------------------
-Axil Default Breadcrump  
+Axil Default Breadcrump
 -----------------------------*/
 ul.axil-breadcrumb {
   margin: -10px;
@@ -18565,7 +18564,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*-----------------------------
-    Breadcrumb Style Two  
+    Breadcrumb Style Two
 -------------------------------*/
 .breadcrumb-thumbnail-group {
   position: relative;
@@ -18829,7 +18828,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*-----------------------------
-    Featured Styles 
+    Featured Styles
 -------------------------------*/
 .axil-featured .thumbnail {
   margin-right: -30px;
@@ -19008,7 +19007,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*----------------------------
-    Counterup Styles 
+    Counterup Styles
 ----------------------------*/
 .single-counterup.counterup-style-1 {
   margin-top: 30px;
@@ -19064,7 +19063,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*----------------------
-    About Styles 
+    About Styles
 ------------------------*/
 .axil-about-inner .section-title p.subtitle-2 {
   padding: 0 14% 0 0;
@@ -19124,7 +19123,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*-------------------------
-    Axil Contact Styles 
+    Axil Contact Styles
 --------------------------*/
 .axil-address-list .axil-address {
   padding: 0;
@@ -19163,7 +19162,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /* ---------------------------
-    Single Product Styles  
+    Single Product Styles
 -------------------------------*/
 .axil-working-process {
   display: -webkit-box;
@@ -19348,7 +19347,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*=============================
-    Team Details Styles  
+    Team Details Styles
 ===============================*/
 .team-details-inner .inner h1.title {
   margin-bottom: 20px;
@@ -19487,7 +19486,7 @@ ul.axil-breadcrumb li.axil-breadcrumb-item + .axil-breadcrumb-item::before {
 }
 
 /*---------------------
-Comming Soon Area  
+Comming Soon Area
 ------------------------*/
 .axil-comming-soon {
   position: relative;
@@ -19605,7 +19604,7 @@ Comming Soon Area
 }
 
 /*--------------------------
-    Single Case Study  
+    Single Case Study
 ----------------------------*/
 .project-bief-styles {
   position: relative;
@@ -19718,7 +19717,7 @@ Comming Soon Area
 }
 
 /*-------------------------
-    Axil Website Images  
+    Axil Website Images
 ---------------------------*/
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .axil-website .thumbnail img {
@@ -19739,7 +19738,7 @@ Comming Soon Area
 }
 
 /*--------------------------
-    Blog Sidebar Styles 
+    Blog Sidebar Styles
 ----------------------------*/
 .axil-single-widget .title {
   font-size: 22px;
@@ -19959,7 +19958,7 @@ Comming Soon Area
 }
 
 /*--------------------------
-    Blog Details Area 
+    Blog Details Area
 ---------------------------*/
 .axil-blog-details-area .blog-top .title {
   margin-bottom: 20px;
@@ -20301,7 +20300,7 @@ Comming Soon Area
 }
 
 /*----------------------
-    Error Styles  
+    Error Styles
 ------------------------*/
 .axil-error-not-found {
   position: relative;
@@ -20512,7 +20511,7 @@ Comming Soon Area
 }
 
 /*------------------------------
-    Privacy policy Styles  
+    Privacy policy Styles
 --------------------------------*/
 .privacy-policy-area a {
   color: #702FFF;
@@ -20578,10 +20577,10 @@ Comming Soon Area
 }
 
 /*-----------------------------
-Preview Page Style Css 
+Preview Page Style Css
 ------------------------------*/
 /*--------------------------
-    Set Line Animation  
+    Set Line Animation
 ----------------------------*/
 .set-line-area {
   position: absolute;
@@ -20745,7 +20744,7 @@ Preview Page Style Css
 }
 
 /*----------------------
-    Banner Area  
+    Banner Area
 ------------------------*/
 .pv-page-wrapper {
   position: relative;
@@ -21144,7 +21143,7 @@ Preview Page Style Css
 }
 
 /*------------------------
-    Page Demo Area  
+    Page Demo Area
 --------------------------*/
 .page-demo-area .wrapper,
 .pv-feature-area .wrapper,
@@ -21228,7 +21227,7 @@ Preview Page Style Css
 }
 
 /* ---------------------
-Single Demo Area 
+Single Demo Area
 -----------------------*/
 .page-demo-area .shape-group .shape {
   position: absolute;
@@ -21306,7 +21305,7 @@ Single Demo Area
 }
 
 /*------------------------
-    Feature Area  
+    Feature Area
 --------------------------*/
 .pv-feature-area .shape-group .shape {
   position: absolute;
@@ -21464,7 +21463,7 @@ Single Demo Area
 }
 
 /*-------------------------
-    Choose Us Area  
+    Choose Us Area
 --------------------------*/
 .choose-us-area .shape-group .shape {
   position: absolute;
@@ -21667,7 +21666,7 @@ Single Demo Area
 }
 
 /*--------------------------
-    Footer Area  
+    Footer Area
 -----------------------------*/
 .pv-footer-styles .axil-call-to-action.callaction-style-2 {
   position: relative;
@@ -21784,7 +21783,7 @@ Single Demo Area
 	Footer Styles
 ***************************************/
 /*===========================
-    Start Footer Area 
+    Start Footer Area
 =============================*/
 .footer-default .footer-widget-item.axil-border-right {
   position: relative;
@@ -21983,7 +21982,7 @@ Single Demo Area
 }
 
 /*--------------------------
-    Newsletter Form  
+    Newsletter Form
 ----------------------------*/
 .newsletter-form {
   display: -webkit-box;
@@ -22051,7 +22050,7 @@ Single Demo Area
 }
 
 /*======================
-    Copyright Area 
+    Copyright Area
 ========================*/
 .copyright-default .quick-contact ul {
   margin: 0 -15px;
